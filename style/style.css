@@ -1,0 +1,68 @@
+.d-block{
+	display: inline-block;
+}
+
+.header{
+	padding: 30px;
+	padding-bottom: 40px;
+}
+.logo{
+	vertical-align: middle;
+}
+.navigation{
+	
+}
+.navigation_li{
+	
+	padding-left: 50.82px;
+}
+.red{
+	color: red;
+}
+.number{
+	font-size: 48px;
+	color: white;
+	background-color: #3D58A6;
+}
+.box{
+	margin-left: 30px;
+	width: 56px;
+	height: 56px;
+	text-align: center;
+}
+.tve{
+	padding-left: 30px;
+	font-size: 22px;
+	color: #3D58A6;
+}
+.satauri{
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-bottom: 23px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.IMG{
+	width: 270px;
+	padding-left: 30px;
+	padding-bottom: 50px;
+}
+.div-text{
+	width: 924px;
+	font-size: 16px;
+	padding-left: 39px;
+}
+.vertic_top{
+	vertical-align: top;
+}
+.footer{
+	padding-left: 30px;
+	padding-bottom: 26.47px;
+}
+.fbimg{
+	width: 14px;
+}
+.youimg{
+	padding-left: 50px;
+	width: 24.76px;
+}
